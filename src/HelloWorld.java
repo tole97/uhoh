@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Zup motherfuckers!");
+        System.out.println("Cheers mate!");
     }
 }
